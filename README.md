@@ -1,5 +1,5 @@
   
-  Boiler Plate with react, redux, Browser History for static asset server with server.js
+  Boiler Plate with react, redux, Browser History for static asset server without server.js
 
 
 # UpStarMusic
