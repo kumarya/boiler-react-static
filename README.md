@@ -1,3 +1,7 @@
+  
+  Boiler Plate with react, redux, Browser History for static asset server with server.js
+
+
 # UpStarMusic
 Starter Repo for a Webpack course on Udemy
 
